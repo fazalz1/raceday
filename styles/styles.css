@@ -1,0 +1,16 @@
+body{
+  background-color:black;
+  color:red;
+  font-family:serif;
+  font-size: 30px;
+  text-align:center;
+}
+
+h1{
+  text-transform: uppercase;
+  
+}
+
+p{
+  color:blue;
+}
